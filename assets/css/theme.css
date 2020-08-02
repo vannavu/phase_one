@@ -1,0 +1,279 @@
+@import 'normalize.css';
+@import url('https://use.typekit.net/mqb3eja.css');
+
+@font-face {
+  font-family: SourceCodePro;
+  src: url('../fonts/SourceCodeVariable-Roman.ttf');
+}
+
+:root {
+  --root_ptsize: 15px;
+  --green: #01A967;
+  --blue: #0048E9;
+  --red: #EC4C4C;
+  --bg: white;
+  --txt: black;
+  --header_height: 51px;
+  --content_margin: calc(var(--header_height));
+  --h1_basesize: 3.5rem;
+  --SourceCodePro: 'wght' 380;
+}
+
+* {
+  list-style: none;
+  text-decoration: none;
+  font-size: var(--root_ptsize);
+  box-sizing: border-box;
+  margin: 0;
+  font-weight: normal;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--bg);
+  transition: background 1s;
+  color: var(--txt);
+  font-family: SourceCodePro;
+  font-variation-settings: var(--SourceCodePro);
+  font-feature-settings: "liga", "kern";
+  font-size: 1rem;
+  line-height: 1.45;
+}
+
+a {
+  cursor: pointer;
+  color: inherit;
+}
+
+@keyframes fadein {
+  0% {opacity: 0;}
+  100% {opacity: 1;}
+}
+
+header {
+  margin: var(--header_height) 0;
+}
+
+h1 {
+  font-family: beastly, sans-serif;
+  animation: fadein 0.5s;
+  line-height: 1;
+  margin: 0;
+}
+
+h1 a {
+  font-size: calc(var(--h1_basesize) * 1.45);
+  font-weight: 200; /* 48pt Beastly */
+}
+
+header p {
+  line-height: 1;
+}
+
+main {
+  position: relative;
+  display: inline-block;
+  left: 75px;
+  width: calc(75% - 25px - 0.6rem);
+  opacity: 1;
+  animation: fadein 0.5s;
+  vertical-align: top;
+  padding-bottom: calc(var(--header_height) * 2);
+}
+
+main img {
+  width: calc(139%);
+}
+
+main p, main h3 {
+  width: 72%;
+}
+
+main p a, .sidebar p a {
+  border-bottom: 1px dotted var(--txt);
+}
+
+main p a:hover, .sidebar p a:hover {
+  border-bottom: 1px solid var(--txt);
+}
+
+main blockquote {
+  width: calc(28% - 40px + 1rem);
+  float: right;
+  margin: 0;
+  padding-left: 1rem;
+  border-left: 1px solid var(--txt);
+}
+
+main blockquote p {
+  width: 100%;
+  margin-bottom: 0.25rem !important;
+}
+
+main blockquote a {
+  transition: all 0.3s;
+  border-bottom: none;
+}
+
+main blockquote a:hover {
+  font-variation-settings: 'wght' 500;
+  transition: font-variation-settings 0.3s;
+}
+
+main blockquote img {
+  width: 100%;
+}
+
+.indent {
+  margin-left: 1.2rem;
+}
+
+.wrapper {
+  position: relative;
+  z-index: 1;
+  width: 80%;
+  min-width: 900px;
+  max-width: 1500px;
+  margin: auto;
+}
+
+.wrapper p {
+  margin: 0;
+  margin-bottom: 1em;
+}
+
+.sidebar {
+  position: sticky;
+  position: -webkit-sticky;
+  top: calc(var(--header_height) + 1.5rem);
+  display: inline-block;
+  width: calc(25% - 50px);
+  animation: fadein 0.5s;
+  border-top: 1px black solid;
+  padding-top: 0.18rem;
+}
+
+.sidebar a {
+  transition: all 0.3s;
+}
+
+.sidebar a:hover {
+  font-variation-settings: 'wght' 500;
+  transition: all 0.3s;
+}
+
+/* ANNOTATIONS */
+.sidebar li {
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+h2 /* post date */ {
+  margin-bottom: 1rem;
+}
+
+.post_date {
+  padding: 0.18rem 0.5rem;
+  color: white;
+  background: black;
+}
+
+ol {
+  padding: 0 0 0 0;
+  margin: 0 0 0 2.125rem;
+}
+
+ol li {
+  list-style: decimal;
+}
+
+main img {
+  margin: 1rem 0;
+}
+
+main p {
+  line-height: 1.7;
+}
+
+main blockquote p, main blockquote p em, main blockquote p a {
+  font-size: 0.8rem;
+  line-height: 1.5;
+  font-variation-settings: 'wght' 400;
+}
+
+main blockquote p strong {
+  font-size: 0.8rem;
+  line-height: 1.5;
+  font-variation-settings: 'wght' 500;
+}
+
+h4, h4 em {
+  font-size: 1.5rem;
+  font-variation-settings: 'wght' 325;
+  line-height: 1.6;
+  padding-left: 0.9rem;
+  margin-bottom: 0.75rem;
+}
+
+h4::before {
+  content: open-quote;
+  margin-left: -0.9rem;
+}
+
+@media only screen and (max-width: 1000px) {
+  :root {
+    --root_ptsize: 15px;
+    --h1_basesize: 5vw;
+  }
+  .wrapper {
+    min-width: auto;
+    width: 90vw;
+  }
+
+  .sidebar{
+    display: none;
+  }
+  main {
+    display: block;
+    left: 0;
+    width: 100%;
+  }
+  h1 a, h1 {
+    font-weight: 500; /* 36pt Beastly */
+  }
+
+}
+
+@media only screen and (max-width: 710px) {
+  :root {
+    --root_ptsize: 14px;
+    --header_height: 36px;
+  }
+  body {
+    line-height: 1.5;
+  }
+  main p, main h3 {
+    width: 100%;
+  }
+  main img {
+    width: 100%;
+  }
+  main blockquote {
+    width: 100%;
+    float: none;
+    border-left: none;
+    border-top: 1px solid var(--txt);
+    border-bottom: 1px solid var(--txt);
+    padding: 0.75rem 0;
+    margin-bottom: 1rem;
+  }
+  h1 {
+    font-weight: 400; /* 18pt Beastly */
+  }
+
+}
