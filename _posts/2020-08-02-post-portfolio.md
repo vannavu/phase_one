@@ -4,7 +4,7 @@ layout: post
 
 Took a while, but after giving a casual and not well practiced/prepared portfolio share on Zoom yesterday, I was motivated to finish configuring a new reference repository as it's a really nice way to document interests and thoughts. I included a screenshot from this [2018 entry](https://vannavu.com/referencerepository/week12-13#taeyoon04):
 
-![](images/2020-08-02.png)
+![]({{ relative_url }}/images/2020-08-02.png)
 
 This is still true.
 
