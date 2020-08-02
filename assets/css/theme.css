@@ -153,6 +153,16 @@ main blockquote img {
   padding-top: 0.18rem;
 }
 
+.sidebar ul {
+  padding: 0;
+}
+
+.sidebar li {
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
 .sidebar a {
   transition: all 0.3s;
 }
@@ -160,14 +170,6 @@ main blockquote img {
 .sidebar a:hover {
   font-variation-settings: 'wght' 500;
   transition: all 0.3s;
-}
-
-/* ANNOTATIONS */
-.sidebar li {
-  width: 100%;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
 }
 
 h2 /* post date */ {
