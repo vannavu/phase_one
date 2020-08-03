@@ -5,7 +5,7 @@ layout: post
 I read *Teaching as a Subversive Activity* by Neil Postman & Charles Weingartner in the last semester of undergrad (about a year and a half ago) after hearing it mentioned in [a podcast](https://scratchingthesurface.fm/post/180816972790/102-laurel-schwulst) with [Laurel Schwulst](https://laurelschwulst.com/). It is a book students should consider reading (good teachers know they are students as well). I returned to my notes on the book after a friend brought up ideas about pursuing anti-institutional alternatives for design education.
 
 #### Children enter school as question marks and leave as periods.
-##### From Chapter 5 of *Teaching as a Subversive Activity*
+##### From Chapter 5 of *Teaching as a Subversive Activity* 
 
 For a while, I've realized, I have been thinking of not approaching design as an essay, to not assert or prove a point or problem solve, but to allow it as a process for exploration and discovering insights. There is a deficiency in learning how to ask questions and what questions to ask. As malleable and not wholly scientific as design is, it is insidious to think that it is a practice of conclusions. Part of the issue lies in having to give designers leverage and validation, but we must admit that we do not know everything. We can post-rationalize til eternity but what are we reasserting by doing that? Why do we have to convince ourselves to such a degree? Is it okay to accept uncertainty, to admit genuinely and not dismissively "I do not know"? What is intuition and "feels right"? Do we assert and create culture or reflect it? Are we humble, or competitive supremacists?
 
