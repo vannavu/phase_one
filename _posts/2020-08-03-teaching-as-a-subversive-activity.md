@@ -7,9 +7,7 @@ I read *Teaching as a Subversive Activity* by Neil Postman & Charles Weingartner
 #### Children enter school as question marks and leave as periods.
 ##### From Chapter 5 of *Teaching as a Subversive Activity*
 
-> **1** Still coming to terms with conventions in fields such as UX/UI, what experiment is warranted without barring accessibility. The damage of manifestos and dogmatism and rules…
-
-For a while, I've realized, I have been thinking of not approaching design as an essay, to not assert or prove a point or problem solve, but to allow it as a process for exploration and discovering insights**¹**. There is a deficiency in learning how to ask questions and what questions to ask. As malleable and not wholly scientific as design is, it is insidious to think that it is a practice of conclusions. Part of the issue lies in having to give designers leverage and validation, but we must admit that we do not know everything. We can post-rationalize til eternity but what are we reasserting by doing that? Why do we have to convince ourselves to such a degree? Is it okay to accept uncertainty, to admit genuinely and not dismissively "I do not know"? What is intuition and "feels right"? Do we assert and create culture or reflect it? Are we humble, or competitive supremacists?
+For a while, I've realized, I have been thinking of not approaching design as an essay, to not assert or prove a point or problem solve, but to allow it as a process for exploration and discovering insights. There is a deficiency in learning how to ask questions and what questions to ask. As malleable and not wholly scientific as design is, it is insidious to think that it is a practice of conclusions. Part of the issue lies in having to give designers leverage and validation, but we must admit that we do not know everything. We can post-rationalize til eternity but what are we reasserting by doing that? Why do we have to convince ourselves to such a degree? Is it okay to accept uncertainty, to admit genuinely and not dismissively "I do not know"? What is intuition and "feels right"? Do we assert and create culture or reflect it? Are we humble, or competitive supremacists?
 
 —
 
