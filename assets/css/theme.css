@@ -293,5 +293,7 @@ main blockquote p strong {
     font-size: 1.5rem;
     font-weight: 100; /* 12pt Beastly */
   }
-
+  h4 {
+    left: 0;
+  }
 }
