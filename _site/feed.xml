@@ -1,4 +1,55 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-02T13:24:01-05:00</updated><id>http://localhost:4000/feed.xml</id><subtitle>Archive #2</subtitle><entry><title type="html">post portfolio</title><link href="http://localhost:4000/2020/08/02/post-portfolio.html" rel="alternate" type="text/html" title="post portfolio" /><published>2020-08-02T00:00:00-05:00</published><updated>2020-08-02T00:00:00-05:00</updated><id>http://localhost:4000/2020/08/02/post-portfolio</id><content type="html" xml:base="http://localhost:4000/2020/08/02/post-portfolio.html">&lt;p&gt;Took a while, but after giving a casual and not well practiced/prepared portfolio share on Zoom yesterday, I was motivated to finish configuring a new reference repository as it’s a really nice way to document interests and thoughts. I included a screenshot from this &lt;a href=&quot;https://vannavu.com/referencerepository/week12-13#taeyoon04&quot;&gt;2018 entry&lt;/a&gt;:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-08-03T12:51:29-05:00</updated><id>http://localhost:4000/feed.xml</id><subtitle>Archive #2</subtitle><entry><title type="html">teaching as a subversive activity</title><link href="http://localhost:4000/2020/08/03/teaching-as-a-subversive-activity.html" rel="alternate" type="text/html" title="teaching as a subversive activity" /><published>2020-08-03T00:00:00-05:00</published><updated>2020-08-03T00:00:00-05:00</updated><id>http://localhost:4000/2020/08/03/teaching-as-a-subversive-activity</id><content type="html" xml:base="http://localhost:4000/2020/08/03/teaching-as-a-subversive-activity.html">&lt;p&gt;I read &lt;em&gt;Teaching as a Subversive Activity&lt;/em&gt; by Neil Postman &amp;amp; Charles Weingartner in the last semester of undergrad (about a year and a half ago) after hearing it mentioned in &lt;a href=&quot;https://scratchingthesurface.fm/post/180816972790/102-laurel-schwulst&quot;&gt;a podcast&lt;/a&gt; with &lt;a href=&quot;https://laurelschwulst.com/&quot;&gt;Laurel Schwulst&lt;/a&gt;. It is a book students should consider reading (good teachers know they are students as well). I returned to my notes on the book after a friend brought up ideas about pursuing anti-institutional alternatives for design education.&lt;/p&gt;
+
+&lt;h4&gt;Children enter school as question marks and leave as periods.&lt;/h4&gt;
+&lt;h5&gt;From Chapter 5 of &lt;em&gt;Teaching as a Subversive Activity&lt;/em&gt;&lt;/h5&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;1&lt;/strong&gt; Still coming to terms with conventions in fields such as UX/UI, what experiment is warranted without barring accessibility. The damage of manifestos and dogmatism and rules…&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;For a while, I’ve realized, I have been thinking of not approaching design as an essay, to not assert or prove a point or problem solve, but to allow it as a process for exploration and discovering insights&lt;strong&gt;¹&lt;/strong&gt;. There is a deficiency in learning how to ask questions and what questions to ask. As malleable and not wholly scientific as design is, it is insidious to think that it is a practice of conclusions. Part of the issue lies in having to give designers leverage and validation, but we must admit that we do not know everything. We can post-rationalize til eternity but what are we reasserting by doing that? Why do we have to convince ourselves to such a degree? Is it okay to accept uncertainty, to admit genuinely and not dismissively “I do not know”? What is intuition and “feels right”? Do we assert and create culture or reflect it? Are we humble, or competitive supremacists?&lt;/p&gt;
+
+&lt;p&gt;—&lt;/p&gt;
+
+&lt;p&gt;I am going to try reading this book again, or at least revisit Chapter 5, titled “What is worth knowing?” as it is asks a series of questions that I answered back in 2019 and would like to answer again now. These are some of the potent questions, along with my answers from March 2019:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;em&gt;What do you worry about most?&lt;/em&gt;&lt;/p&gt;
+
+    &lt;p&gt;Submitting to capitalist requirements, feeling defeated and meaningless. Building ingenuine networks just for me. Misleading someone. People unable to be independent and secure their own backbone.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;em&gt;What are the causes of your worries?&lt;/em&gt;&lt;/p&gt;
+
+    &lt;p&gt;The professionalization of curricula, professors with blasé attitudes who reinforce the client mindset over individual expression. Templated advice that reinforces convention, doesn’t question truth. Lack of depth in relationships. Insecure people with no passion or opinion.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;em&gt;What bothers you most about adults? Why?&lt;/em&gt;&lt;/p&gt;
+
+    &lt;p&gt;Those with no opinion or desire to reconsider; they perpetuate conventional systems or hold an authoritarian stance that doesn’t support different perspectives. The neutral are also discouraging; they seem to not care; if they have no exigence, how can you? Ones who don’t go for ideas: stagnant. Those who don’t encourage or push or &lt;em&gt;just fucking care.&lt;/em&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;em&gt;What, if anything, seems to you to be worth dying for?&lt;/em&gt;&lt;/p&gt;
+
+    &lt;p&gt;Liberation&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;em&gt;How did you come to believe this?&lt;/em&gt;&lt;/p&gt;
+
+    &lt;p&gt;It is easier to fly weightless.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;em&gt;What seems worth living for?&lt;/em&gt;&lt;/p&gt;
+
+    &lt;p&gt;Witnessing where all the good people go and what they do. The growth of deep relationships. The potential of finding a genuine group.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;em&gt;How did you come to believe this?&lt;/em&gt;&lt;/p&gt;
+
+    &lt;p&gt;I am getting closer to it every day. The things I make say more than I ever will be able to, as well as the actions of good-willed people. Without them, I would not be here. Each day I am becoming less timid, especially by engaging with people who are bold and honest, but not sensationalists. They are remarkable in the basic desirable traits, which are unfortunately hard to come by. And you can only grow by crossing with new perspectives and accepting support. Hearing of people’s journeys is always a source of optimism.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;</content><author><name></name></author><summary type="html">I read Teaching as a Subversive Activity by Neil Postman &amp;amp; Charles Weingartner in the last semester of undergrad (about a year and a half ago) after hearing it mentioned in a podcast with Laurel Schwulst. It is a book students should consider reading (good teachers know they are students as well). I returned to my notes on the book after a friend brought up ideas about pursuing anti-institutional alternatives for design education.</summary></entry><entry><title type="html">post portfolio</title><link href="http://localhost:4000/2020/08/02/post-portfolio.html" rel="alternate" type="text/html" title="post portfolio" /><published>2020-08-02T00:00:00-05:00</published><updated>2020-08-02T00:00:00-05:00</updated><id>http://localhost:4000/2020/08/02/post-portfolio</id><content type="html" xml:base="http://localhost:4000/2020/08/02/post-portfolio.html">&lt;p&gt;Took a while, but after giving a casual and not well practiced/prepared portfolio share on Zoom yesterday, I was motivated to finish configuring a new reference repository as it’s a really nice way to document interests and thoughts. I included a screenshot from this &lt;a href=&quot;https://vannavu.com/referencerepository/week12-13#taeyoon04&quot;&gt;2018 entry&lt;/a&gt;:&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;images/2020-08-02.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 

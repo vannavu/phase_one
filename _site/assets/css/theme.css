@@ -1,5 +1,5 @@
 @import 'normalize.css';
-@import url('https://use.typekit.net/mqb3eja.css');
+@import url("https://use.typekit.net/wzt3crl.css");
 
 @font-face {
   font-family: SourceCodePro;
@@ -85,7 +85,7 @@ main img {
   width: calc(139%);
 }
 
-main p, main h3 {
+main p {
   width: 72%;
 }
 
@@ -182,6 +182,35 @@ h2 /* post date */ {
   background: black;
 }
 
+h3, h4 /* larger in-post text */ {
+  font-family: beastly, monospace;
+  font-weight: 800; /* 16pt Beastly */
+  font-size: 2rem;
+}
+
+h4 {
+  padding-left: 0.6em; /* width of quotation mark */
+  text-indent: -0.6em;
+  position: relative;
+  left: -0.6em;
+}
+
+h4::before /* pull quotes */ {
+  content: "“";
+}
+
+h4::after /* pull quotes */ {
+  content: "”";
+}
+
+h5, h5 em /* caption */ {
+  font-size: 0.8rem;
+}
+
+h5 {
+  margin-bottom: 1.5rem;
+}
+
 ol {
   padding: 0 0 0 0;
   margin: 0 0 0 2.125rem;
@@ -211,19 +240,6 @@ main blockquote p strong {
   font-variation-settings: 'wght' 500;
 }
 
-h4, h4 em {
-  font-size: 1.5rem;
-  font-variation-settings: 'wght' 325;
-  line-height: 1.6;
-  padding-left: 0.9rem;
-  margin-bottom: 0.75rem;
-}
-
-h4::before {
-  content: open-quote;
-  margin-left: -0.9rem;
-}
-
 @media only screen and (max-width: 1000px) {
   :root {
     --root_ptsize: 15px;
@@ -245,6 +261,9 @@ h4::before {
   h1 a, h1 {
     font-weight: 500; /* 36pt Beastly */
   }
+  h3, h4 {
+     font-weight: 600; /* 14pt Beastly */
+   }
 
 }
 
@@ -256,7 +275,7 @@ h4::before {
   body {
     line-height: 1.5;
   }
-  main p, main h3 {
+  main p {
     width: 100%;
   }
   main img {
@@ -273,6 +292,10 @@ h4::before {
   }
   h1 {
     font-weight: 400; /* 18pt Beastly */
+  }
+  h3, h4 {
+    font-size: 1.5rem;
+    font-weight: 100; /* 12pt Beastly */
   }
 
 }
