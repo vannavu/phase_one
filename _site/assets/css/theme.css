@@ -173,7 +173,7 @@ main blockquote img {
 }
 
 h2 /* post date */ {
-  margin-bottom: 1rem;
+  margin-bottom: 1.5rem;
 }
 
 .post_date {
@@ -187,6 +187,10 @@ h3, h4 /* larger in-post text */ {
   font-weight: 800; /* 16pt Beastly */
   font-size: 2rem;
   line-height: 1.15;
+}
+
+h3 {
+  margin-bottom: 1rem;
 }
 
 h4 {
@@ -260,9 +264,6 @@ main blockquote p strong {
     left: 0;
     width: 100%;
   }
-  h3, h4 {
-     font-weight: 600; /* 14pt Beastly */
-   }
 
 }
 
@@ -291,7 +292,9 @@ main blockquote p strong {
   }
   h3, h4 {
     font-size: 1.5rem;
-    font-weight: 100; /* 12pt Beastly */
+    font-weight: 600; /* 14pt Beastly */
   }
-
+  h4 {
+    left: 0;
+  }
 }
