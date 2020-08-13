@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Phase One
 permalink: /
 layout: default
 ---
