@@ -213,13 +213,18 @@ h4::after /* pull quotes */ {
   content: "”";
 }
 
-h5, h5 em /* caption */ {
+h5, h5 em, h5 a /* caption */ {
   font-size: 0.8rem;
   font-variation-settings: 'wght' 420;
 }
 
 h5 {
   margin: 0.5em 0 1.5rem 0;
+  width: 72%;
+}
+
+h5 a {
+  text-decoration: underline;
 }
 
 main ul {
@@ -289,7 +294,7 @@ main blockquote p strong {
   body {
     line-height: 1.5;
   }
-  main p, main ul {
+  main p, main ul, h5 {
     width: 100%;
   }
   main img {
