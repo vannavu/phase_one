@@ -263,6 +263,7 @@ main ul.index li a {
 main ul.index li a:hover {
   font-variation-settings: 'wght' 550;
   transition: all 0.3s;
+}
 
 ol {
   padding: 0;
