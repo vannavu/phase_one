@@ -1,5 +1,7 @@
 ---
 layout: post
+title: “The Fall” by Russell Edson
+tags: [August 2020]
 ---
 
 Ocean Vuong shared on his Instagram story one poem that changed his life:
@@ -34,6 +36,6 @@ Paul Tran is another contemporary Vietnamese American poet. A snippet from one o
 
 —
 
-> ![](images/2020-08-12.jpg)
+> ![]({{ site.url }}/images/2020-08-12.jpg)
 
 For some reason in October 2018, I wrote “Everyone’s got their own voice. I’m not European.” on the back of a handout that was also covered with sketches for typeface idea. I still do not know what I was responding to. I guess all of it really.

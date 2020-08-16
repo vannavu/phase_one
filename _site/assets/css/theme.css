@@ -8,7 +8,7 @@
 
 :root {
   --root_ptsize: 15px;
-  --bg: white;
+  --bg: whitesmoke;
   --txt: black;
   --header_height: 51px;
   --content_margin: calc(var(--header_height));
@@ -148,13 +148,11 @@ main blockquote img {
 }
 
 .sidebar {
-  position: sticky;
-  position: -webkit-sticky;
   top: calc(var(--header_height) + 1.5rem);
   display: inline-block;
   width: calc(25% - 50px);
   animation: fadein 0.5s;
-  border-top: 1px black solid;
+  border-top: 1px var(--txt) solid;
   padding-top: 0.18rem;
 }
 
@@ -173,7 +171,7 @@ main blockquote img {
 }
 
 .sidebar a:hover {
-  font-variation-settings: 'wght' 500;
+  font-variation-settings: 'wght' 550;
   transition: all 0.3s;
 }
 
@@ -183,8 +181,8 @@ h2 /* post date */ {
 
 .post_date {
   padding: 0.18rem 0.5rem;
-  color: white;
-  background: black;
+  color: var(--bg);
+  background: var(--txt);
 }
 
 h3, h4 /* larger in-post text */ {
@@ -225,17 +223,21 @@ h5 {
 
 h6 /* image caption */ {
   position: relative;
-  margin: -2rem 0 1.5rem 0;
+  margin: -1rem 0 1.5rem 0;
   width: 72%;
 }
 
 h5 a, h6 a {
-  text-decoration: underline;
+  border-bottom: 1px dotted var(--txt);
+}
+
+h5 a:hover, h6 a:hover {
+  border-bottom: 1px solid var(--txt);
 }
 
 main ul {
   padding-left: 1.75rem;
-  border-left: 1px solid black;
+  border-left: 1px solid var(-txt);
   width: 72%;
   margin-bottom: 1rem;
   line-height: 1.7rem;
@@ -244,6 +246,23 @@ main ul {
 main ul p {
   width: 100%;
 }
+
+main ul.index {
+  border: none;
+  padding: 0;
+}
+
+main ul.index li {
+  margin-bottom: 0.5rem;
+}
+
+main ul.index li a {
+  transition: all 0.3s;
+}
+
+main ul.index li a:hover {
+  font-variation-settings: 'wght' 550;
+  transition: all 0.3s;
 
 ol {
   padding: 0;

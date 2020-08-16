@@ -1,5 +1,7 @@
 ---
 layout: post
+title: Post-metaphor
+tags: [August 2020]
 ---
 
 ### Post-metaphor

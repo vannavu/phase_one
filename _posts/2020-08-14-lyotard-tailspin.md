@@ -1,5 +1,7 @@
 ---
 layout: post
+title: Lyotard tailspin
+tags: [August 2020]
 ---
 
 First semester junior year, second semester of being in the design major, I was thrown into an existential and philosophical tailspin (which I didn’t realize that’s what it was until later, though I remember my professor Ben, who was frustrated at my struggle, asking me if I was having an existential crisis) in trying to make an editorial book containing “The Crystal Goblet” (the required text) by Beatrice Warde and “Paradox on the Graphic Artist” (my chosen text) by Jean-François Lyotard. When I struggled before, it was no big deal. I moved on and improved, in bliss of being in design school, but thinking in the back of head, *when will I be jaded by all of this?*. Pretty soon apparently.
@@ -8,7 +10,7 @@ But this struggle was less about skill and more about deep critical thinking abo
 
 For some reason I thought back to this time and a message I wrote that I wanted to print photocopies of and distribute on my peers’ desks anonymously. But I was too scared to do it. It probably would have been confusing and weird anyway. Manifestos are the language of patriarchal white supremacy.
 
-![](images/2020-08-14.png)
+![]({{ site.url }}/images/2020-08-14.png)
 ###### December 2017
 
 Notes that followed that writing:

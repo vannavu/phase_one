@@ -1,5 +1,7 @@
 ---
 layout: post
+title: Teaching as a Subversive Activity
+tags: [August 2020]
 ---
 
 I read *Teaching as a Subversive Activity* by Neil Postman & Charles Weingartner in the last semester of undergrad (about a year and a half ago) after hearing it mentioned in [a podcast](https://scratchingthesurface.fm/post/180816972790/102-laurel-schwulst) with [Laurel Schwulst](https://laurelschwulst.com/). It is a book students should consider reading (good teachers know they are students as well). I returned to my notes on the book after a friend brought up ideas about pursuing anti-institutional alternatives for design education.
