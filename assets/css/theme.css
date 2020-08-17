@@ -237,7 +237,7 @@ h5 a:hover, h6 a:hover {
 
 main ul {
   padding-left: 1.75rem;
-  border-left: 1px solid var(-txt);
+  border-left: 1px solid var(--txt);
   width: 72%;
   margin-bottom: 1rem;
   line-height: 1.7rem;
