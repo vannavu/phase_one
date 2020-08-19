@@ -27,7 +27,7 @@ hierarchies, standing out, grabbing attention, networking, awards, self-commodif
 
   from *The Pirate Who Does Not Know the Value of Pi*, Eugene Ostashevsky
 
-The partial poem above starts of the article “[Sleep Walks the Street, Part I](https://www.e-flux.com/journal/103/286824/sleep-walks-the-street-part-1/)” by Metahaven, who argue that “metaphors, metonyms, and allegories have become scalable political technologies obfuscating, undermining, and instrumentalizing the realities they represent.”
+The partial poem above starts off the article “[Sleep Walks the Street, Part I](https://www.e-flux.com/journal/103/286824/sleep-walks-the-street-part-1/)” by Metahaven, who argue that “metaphors, metonyms, and allegories have become scalable political technologies obfuscating, undermining, and instrumentalizing the realities they represent.”
 
 Another quote:
 
@@ -49,4 +49,4 @@ So often in design and art, metaphor is another layer to interpret. It complicat
 
 —
 
-Designers are agents of culture. And what is culture under a patriarchal capitalist white supremacy? 
+Designers are agents of culture. And what is culture under a patriarchal capitalist white supremacy?
