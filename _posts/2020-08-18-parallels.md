@@ -46,3 +46,7 @@ Raw emotion is indigestible. We often understand it through a medium, a material
 Storytelling and language feel essential to being a human though.
 
 So often in design and art, metaphor is another layer to interpret. It complicates the process. What and how does it mean to be straightforward? Why has Trump’s language angered the progressives while illuminating rural white America and conservative immigrants? Do we truly listen to those who do not speak like us?
+
+—
+
+Designers are agents of culture. And what is culture under a patriarchal capitalist white supremacy? 
