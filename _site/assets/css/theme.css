@@ -287,6 +287,10 @@ main img {
   margin: 1rem 0;
 }
 
+main img[src*="#small"] {
+  width: 100%;
+}
+
 main blockquote p, main blockquote p em, main blockquote p a {
   font-size: 0.8rem;
   line-height: 1.5;
