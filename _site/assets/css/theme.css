@@ -321,6 +321,9 @@ main blockquote p strong {
     left: 0;
     width: 100%;
   }
+  h5, h6 {
+    width: 100%;
+  }
 
 }
 
@@ -349,7 +352,6 @@ main blockquote p strong {
   }
   h3, h4 {
     font-size: 1.5rem;
-    font-weight: 600; /* 14pt Beastly */
   }
   h4 {
     left: 0;
