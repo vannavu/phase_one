@@ -257,6 +257,8 @@ main ul.index {
 
 main ul.index li {
   margin-bottom: 0.5rem;
+  padding-left: 6.6rem;
+  text-indent: -6.6rem;
 }
 
 main ul.index li a {
@@ -275,6 +277,10 @@ ol {
 
 ol li {
   list-style: decimal;
+}
+
+span.highlight {
+  background: #DCE4E4;
 }
 
 main img {
