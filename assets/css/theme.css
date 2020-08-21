@@ -321,6 +321,9 @@ main blockquote p strong {
     left: 0;
     width: 100%;
   }
+  h5, h6 {
+    width: 100%;
+  }
 
 }
 
