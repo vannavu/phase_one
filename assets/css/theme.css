@@ -6,6 +6,11 @@
   src: url('../fonts/SourceCodeVariable-Roman.subset.woff2');
 }
 
+@font-face {
+  font-family: SourceCodeProItalic;
+  src: url('../fonts/SourceCodeVariable-Italic.subset.woff2');
+}
+
 :root {
   --root_ptsize: 15px;
   --bg: whitesmoke;
@@ -14,6 +19,8 @@
   --content_margin: calc(var(--header_height));
   --h1_basesize: 3.5rem;
   --SourceCodePro: 'wght' 380;
+  --SourceCodeProItalic: 'wght' 380;
+  --SourceCodeProItalicBold: 'wght' 600;
 }
 
 * {
@@ -93,8 +100,21 @@ main p {
   line-height: 1.7;
 }
 
-main p strong {
-  font-variation-settings: 'wght' 600 !important;
+main strong {
+  font-variation-settings: 'wght' 600;
+  font-weight: 600;
+}
+
+main em {
+  font-family: SourceCodeProItalic;
+  font-variation-settings: var(--SourceCodeProItalic);
+  font-style: normal;
+}
+
+main strong em {
+  font-family: SourceCodeProItalic;
+  font-variation-settings: var(--SourceCodeProItalicBold);
+  font-style: normal;
 }
 
 main p a, .sidebar p a {
