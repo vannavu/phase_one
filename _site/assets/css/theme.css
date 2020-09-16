@@ -3,7 +3,7 @@
 
 @font-face {
   font-family: SourceCodePro;
-  src: url('../fonts/SourceCodeVariable-Roman.ttf');
+  src: url('../fonts/SourceCodeVariable-Roman.subset.woff2');
 }
 
 :root {
@@ -184,8 +184,9 @@ h2 /* post date */ {
 
 .post_date {
   padding: 0.18rem 0.5rem;
-  color: var(--bg);
   background: var(--txt);
+  color: var(--bg);
+
 }
 
 h3, h4 /* larger in-post text */ {
