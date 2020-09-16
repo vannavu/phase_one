@@ -68,7 +68,7 @@ h1 {
   font-family: beastly, sans-serif;
   animation: fadein 0.5s;
   line-height: 1;
-  margin: 0;
+  margin: 0 0 0.2rem 0;
 }
 
 h1 a {
@@ -78,6 +78,15 @@ h1 a {
 
 header p {
   line-height: 1;
+}
+
+header p a {
+  transition: font-variation-settings 0.3s;
+}
+
+header p a:hover {
+  font-variation-settings: 'wght' 550;
+  transition: font-variation-settings 0.3s;
 }
 
 main {
