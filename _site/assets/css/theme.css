@@ -150,10 +150,11 @@ main blockquote p {
 main blockquote a {
   transition: all 0.3s;
   border-bottom: none;
+  font-variation-settings: 'wght' 650 !important;
 }
 
 main blockquote a:hover {
-  font-variation-settings: 'wght' 500;
+  border-bottom: 1px dotted black;
   transition: font-variation-settings 0.3s;
 }
 
