@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Glass idiom
+title: Glass half fool
 tags: [November 2020]
 ---
 
