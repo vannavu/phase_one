@@ -41,6 +41,7 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
     mini_portile2 (2.4.0)
+<<<<<<< HEAD
     nokogiri (1.10.10)
       mini_portile2 (~> 2.4.0)
     pathutil (0.16.2)
@@ -49,6 +50,16 @@ GEM
     rack (2.0.9)
     rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
+=======
+    nokogiri (1.10.8)
+      mini_portile2 (~> 2.4.0)
+    pathutil (0.16.2)
+      forwardable-extended (~> 2.6)
+    public_suffix (3.1.1)
+    rack (2.1.4)
+    rb-fsevent (0.10.3)
+    rb-inotify (0.10.0)
+>>>>>>> 0b6c7fc4e45b52dc8750290e43e4ebd2ea4f6bb8
       ffi (~> 1.0)
     rouge (3.26.0)
     rspec (3.10.0)
@@ -78,7 +89,7 @@ DEPENDENCIES
   jekyll (~> 3.8.5)
   jekyll-feed (~> 0.6)
   nokogiri
-  rack (~> 2.0.1)
+  rack (~> 2.1.4)
   rspec
   tzinfo-data
 
