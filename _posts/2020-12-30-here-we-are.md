@@ -28,6 +28,6 @@ In feeling homeless, I built a structure.
 
 - I want to scream but I have no mouth
 
-I heard that I work a couple weeks ago.
+I heard that at work a couple weeks ago.
 
 [Apparently](https://en.wikipedia.org/wiki/I_Have_No_Mouth,_and_I_Must_Scream)
