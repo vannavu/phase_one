@@ -354,6 +354,10 @@ main blockquote p strong {
   font-variation-settings: 'wght' 500;
 }
 
+main ol ul li {
+  list-style: none;
+}
+
 @media only screen and (max-width: 1000px) {
   :root {
     --root_ptsize: 15px;
