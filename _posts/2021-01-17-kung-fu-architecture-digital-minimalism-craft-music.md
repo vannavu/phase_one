@@ -25,7 +25,7 @@ I took a month off any kind of work as I didn’t take time off all year. I didn
     ![]({{ site.url }}/images/2021-01-16h.jpg)
 ###### Vega Cottage, © Kolman Boye Architects / Lindman Photography
 
-    I ended up learning about [archdaily.com](https://www.archdaily.com/){:target="blank"} and [dezeen.com](https://www.dezeen.com/){:target="blank"}’s architecturre section, which show the floor plans and elevations, and obsessively and restlessly (why do I have to be like this) researched a bunch of houses to study and build. 
+    I ended up learning about [archdaily.com](https://www.archdaily.com/){:target="blank"} and [dezeen.com](https://www.dezeen.com/){:target="blank"}’s architecture section, which show the floor plans and elevations, and obsessively and restlessly (why do I have to be like this) researched a bunch of houses to study and build. 
     
     A house that resonated with me is the [Steel Craft House](https://www.archdaily.com/949885/steel-craft-house-zecc-architecten?ad_medium=gallery){:target="blank"} designed by Zecc Architecten in Utrecht, The Netherlands:
 
