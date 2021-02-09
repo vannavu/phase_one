@@ -30,7 +30,6 @@ GEM
       safe_yaml (~> 1.0)
     jekyll-feed (0.15.1)
       jekyll (>= 3.7, < 5.0)
-    jekyll-paginate (1.1.0)
     jekyll-sass-converter (1.5.2)
       sass (~> 3.4)
     jekyll-watch (2.2.1)
@@ -41,12 +40,14 @@ GEM
       rb-fsevent (~> 0.10, >= 0.10.3)
       rb-inotify (~> 0.9, >= 0.9.10)
     mercenary (0.3.6)
-    mini_portile2 (2.4.0)
-    nokogiri (1.10.10)
-      mini_portile2 (~> 2.4.0)
+    mini_portile2 (2.5.0)
+    nokogiri (1.11.0)
+      mini_portile2 (~> 2.5.0)
+      racc (~> 1.4)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (4.0.6)
+    racc (1.5.2)
     rack (2.1.4)
     rb-fsevent (0.10.4)
     rb-inotify (0.10.1)
@@ -78,7 +79,6 @@ PLATFORMS
 DEPENDENCIES
   jekyll (~> 3.8.5)
   jekyll-feed (~> 0.6)
-  jekyll-paginate
   nokogiri
   rack (~> 2.1.4)
   rspec
